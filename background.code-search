@@ -1,0 +1,13 @@
+# Query: background
+# ContextLines: 1
+
+2 results - 1 file
+
+C:\xampp\htdocs\Car_Rental-PHP\index.php:
+  137  
+  138:     <div id="sec2" style="color: #777;background-color:white;text-align:center;padding:50px 80px;text-align: justify;">
+  139          <h3 style="text-align:center;">Available Cars</h3>
+
+  181          <div class="caption">
+  182:             <span class="border" style="background-color:transparent;font-size:25px;color:rgb(243, 245, 239);"></span>
+  183          </div>
